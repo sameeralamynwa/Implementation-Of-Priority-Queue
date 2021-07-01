@@ -1,4 +1,4 @@
-# Implementing-Priority-Queue
+# Implementation-Of-Priority-Queue
 Implementation of priority queue using max heap:
 I used 4 operations primarily as:
 1. Insert(x) : Inserts x into the priority queue.
