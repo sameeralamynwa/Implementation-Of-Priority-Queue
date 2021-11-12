@@ -1,6 +1,5 @@
 # Implementation-Of-Priority-Queue
-Implementation of priority queue using max heap:
-I used 4 operations primarily as:
+Implementation of priority queue using max heap for which I used 4 operations primarily as:
 1. Insert(x) : Inserts x into the priority queue.
 2. Read_Max() : Reads the maximum element from the priority queue.
 3. Extract_Max() : Returns the maximum element from the priority queue and erases it.
